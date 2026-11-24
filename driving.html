@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Live Drive — Blackspot Watch</title>
+  <link rel="stylesheet" href="https://unpkg.com/maplibre-gl@5.6.2/dist/maplibre-gl.css">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="index.html"><span class="brand-mark"></span><span>Blackspot <span style="color:var(--cyan)">Watch</span></span></a>
+    <nav class="nav-links"><a href="index.html">Overview</a><a class="active" href="driving.html">Live drive</a><a href="route.html">Route</a><a href="analytics.html">Analytics</a><a href="data.html">Data</a></nav>
+    <div class="status-pill"><span class="status-dot"></span><span id="gpsStatus">GPS waiting</span></div>
+  </header>
+  <main class="drive-shell">
+    <aside class="left-panel" id="leftPanel">
+      <section class="panel-section">
+        <div class="section-label">Vehicle</div>
+        <div class="segmented" id="vehicleSwitch"><button class="active" data-vehicle="car">Car</button><button data-vehicle="bike">Bike</button></div>
+        <div class="vehicle-canvas" id="vehicleCanvas"></div>
+      </section>
+      <section class="panel-section">
+        <div class="section-label">Navigation mode</div>
+        <div class="control-row"><button class="button button-secondary" id="gpsButton">Use GPS</button><button class="button button-primary" id="demoButton">Demo drive</button></div>
+      </section>
+      <section class="panel-section">
+        <div class="section-label">Live vehicle</div>
+        <div class="metric"><div class="metric-head"><span>Current speed</span><span>km/h</span></div><strong id="currentSpeed">48</strong></div>
+        <div class="metric"><div class="metric-head"><span>Recommended</span><span>approach</span></div><strong id="recommendedSpeed">24</strong><small id="speedNote"> conservative estimate</small></div>
+        <label class="field" style="margin-top:10px">Usual cruising speed
+          <input id="cruisingSpeed" type="number" min="0" max="180" value="80" aria-label="Usual cruising speed in km/h">
+        </label>
+        <p id="cruiseCount" class="cruise-count">Checking bends at your cruising speed…</p>
+      </section>
+      <section class="panel-section">
+        <div class="section-label">Next hazard</div>
+        <div id="hazardBadge" class="risk-badge high">High risk</div>
+        <div class="metric" style="margin-top:9px"><div class="metric-head"><span>Distance</span><span>metres</span></div><strong id="hazardDistance">420</strong></div>
+      </section>
+    </aside>
+    <section class="map-wrap">
+      <div id="routeOverlay" class="route-overlay">
+        <div><span>FROM</span><input id="routeStartInput" class="route-location-input" placeholder="Start location"></div>
+        <div class="route-overlay-arrow">→</div>
+        <div><span>TO</span><input id="routeEndInput" class="route-location-input" placeholder="Destination"></div>
+        <button id="routeStartButton" class="button button-primary">Show route</button>
+      </div>
+      <div class="map-status"><span class="status-dot"></span><span id="mapStatus">No route loaded</span></div>
+      <div id="map" class="map"></div>
+      <div class="bottom-controls"><button id="pitchButton">3D terrain</button><button id="voiceButton">Voice on</button><button id="mobilePanel">Controls</button></div>
+    </section>
+    <aside class="right-panel">
+      <section class="panel-section">
+        <div class="section-label">Upcoming warning</div>
+        <div class="warning-card" id="warningCard"><strong id="warningTitle">No bend loaded</strong><p id="warningText">Select a route or upload the route and curve datasets.</p><p id="warningConfidence" class="warning-confidence">Confidence: unavailable</p></div>
+      </section>
+      <section class="panel-section">
+        <div class="section-label">Curve details</div>
+        <div class="metric"><div class="metric-head"><span>Estimated radius</span><span>m</span></div><strong id="curveRadius">—</strong></div>
+        <div class="metric"><div class="metric-head"><span>Confidence</span><span>score</span></div><strong id="curveConfidence">—</strong></div>
+      </section>
+      <section class="panel-section">
+        <div class="section-label">Data confidence</div>
+        <p style="font-size:12px;color:var(--muted);line-height:1.6">Bends use uploaded or verified route data. GPS accuracy and road friction remain uncertain.</p>
+      </section>
+    </aside>
+  </main>
+  <script src="https://unpkg.com/maplibre-gl@5.6.2/dist/maplibre-gl.js"></script>
+  <script src="assets/js/api.js"></script>
+  <script src="assets/js/voice.js"></script>
+  <script type="module" src="assets/js/driving.js?v=15"></script>
+</body>
+</html>

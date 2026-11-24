@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Route Selection — Blackspot Watch</title><link rel="stylesheet" href="https://unpkg.com/maplibre-gl@5.6.2/dist/maplibre-gl.css"><link rel="stylesheet" href="assets/css/style.css"></head>
+<body>
+  <header class="topbar"><a class="brand" href="index.html"><span class="brand-mark"></span><span>Blackspot <span style="color:var(--cyan)">Watch</span></span></a><nav class="nav-links"><a href="index.html">Overview</a><a href="driving.html">Live drive</a><a class="active" href="route.html">Route</a><a href="analytics.html">Analytics</a><a href="data.html">Data</a></nav></header>
+  <main class="page-main">
+    <div class="page-head"><div><div class="eyebrow">Navigation</div><h1>Route selection</h1></div></div>
+    <div class="grid-2">
+      <section class="card">
+        <div class="form-grid">
+          <label class="field location-field">Starting location
+            <input id="startLocation" value="Kottigehara, Karnataka" placeholder="Type to search a place" autocomplete="off">
+            <div id="startSuggestions" class="suggestions" hidden></div>
+          </label>
+          <label class="field location-field">Destination
+            <input id="destination" value="Ujire, Karnataka" placeholder="Type to search a place" autocomplete="off">
+            <div id="destinationSuggestions" class="suggestions" hidden></div>
+          </label>
+          <label class="field">Vehicle<select id="routeVehicle"><option value="car">Car</option><option value="bike">Bike</option></select></label>
+          <label class="field">Route preference<select><option>Conservative safety</option><option>Shortest route</option></select></label>
+        </div>
+        <button class="button button-primary" id="findRoute" style="margin-top:16px">Find safe routes</button>
+        <div id="routeResults" style="margin-top:18px"></div>
+      </section>
+      <section class="card"><div id="routeMap" style="height:430px;border-radius:12px"></div></section>
+    </div>
+  </main>
+  <script src="https://unpkg.com/maplibre-gl@5.6.2/dist/maplibre-gl.js"></script><script src="assets/js/api.js"></script><script src="assets/js/route.js?v=15"></script>
+</body>
+</html>

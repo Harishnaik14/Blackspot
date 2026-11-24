@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Data Management — Blackspot Watch</title><link rel="stylesheet" href="assets/css/style.css"></head>
+<body>
+  <header class="topbar"><a class="brand" href="index.html"><span class="brand-mark"></span><span>Blackspot <span style="color:var(--cyan)">Watch</span></span></a><nav class="nav-links"><a href="index.html">Overview</a><a href="driving.html">Live drive</a><a href="route.html">Route</a><a href="analytics.html">Analytics</a><a class="active" href="data.html">Data</a></nav></header>
+  <main class="page-main">
+    <div class="page-head"><div><div class="eyebrow">Import</div><h1>Data management</h1></div><span class="demo-label">Validation required</span></div>
+    <div class="grid-2">
+      <section class="card">
+        <h3>Ghat Curve Database</h3>
+        <p style="color:var(--muted);font-size:13px">Required: latitude, longitude, radius, direction, curve_type, severity. Optional: road_name, data_source, verification_status, confidence.</p>
+        <div class="upload-zone"><input type="file" id="ghatCurveFile" accept=".csv,text/csv"><button class="button button-primary" id="uploadGhatCurves">Validate and load curves</button></div>
+        <div id="ghatCurveResult" style="margin-top:12px"></div>
+      </section>
+      <section class="card">
+        <h3>GPS Route Dataset</h3>
+        <p style="color:var(--muted);font-size:13px">Required: latitude, longitude, timestamp. Optional: altitude, speed, road_name, direction.</p>
+        <div class="upload-zone"><input type="file" id="gpsFile" accept=".csv,text/csv"><button class="button button-primary" id="uploadGps">Validate and load GPS route</button></div>
+        <div id="gpsResult" style="margin-top:12px"></div>
+      </section>
+      <section class="card">
+        <h3>Accident Blackspot Database</h3>
+        <p style="color:var(--muted);font-size:13px">Required: latitude, longitude, accident_count. Optional: fatalities, source, verification_status.</p>
+        <div class="upload-zone"><input type="file" id="blackspotFile" accept=".csv,text/csv"><button class="button button-primary" id="uploadBlackspot">Validate and load blackspots</button></div>
+        <div id="blackspotResult" style="margin-top:12px"></div>
+      </section>
+      <section class="card">
+        <h3>Known bends validation</h3>
+        <p style="color:var(--muted);font-size:13px">GPS trace: lat, lon, optional altitude. Known bends: lat, lon, true_radius.</p>
+        <div class="upload-zone">
+          <input type="file" id="knownGpsFile" accept=".csv,text/csv" aria-label="GPS trace CSV">
+          <input type="file" id="knownBendsFile" accept=".csv,text/csv" aria-label="Known bends CSV">
+          <button class="button button-primary" id="runValidation">Run accuracy validation</button>
+        </div>
+        <div id="validationResult" class="accuracy-summary" style="margin-top:12px"></div>
+      </section>
+    </div>
+  </main>
+  <script src="assets/js/api.js"></script><script type="module" src="assets/js/data.js"></script>
+</body>
+</html>

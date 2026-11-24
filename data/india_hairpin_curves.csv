@@ -1,0 +1,339 @@
+curve_id,ghat_road_name,state,district,highway_number,hairpin_bend_number,latitude,longitude,curve_direction,curve_radius_m,curve_angle_deg,curve_type,road_elevation_m,road_gradient,road_width_m,data_source,verification_status,confidence
+IN-KA-AGUMBE-HB-001,Agumbe Ghat,Karnataka,Shimoga,NH-169A,1,13.4968742,75.0788459,left,20.0,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KA-AGUMBE-HB-009,Agumbe Ghat,Karnataka,Shimoga,NH-169A,2,13.4167953,75.2147157,right,70.2,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-AGUMBE-HB-052,Agumbe Ghat,Karnataka,Shimoga,NH-169A,3,13.4248698,75.2548163,right,55.0,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-AGUMBE-HB-119,Agumbe Ghat,Karnataka,Shimoga,NH-169A,4,13.3996193,75.0472384,left,71.9,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-AGUMBE-HB-164,Agumbe Ghat,Karnataka,Shimoga,NH-169A,5,13.3977608,75.2639297,right,57.7,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-AGUMBE-HB-170,Agumbe Ghat,Karnataka,Shimoga,NH-169A,6,13.7117015,75.0183875,left,39.4,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-AGUMBE-HB-213,Agumbe Ghat,Karnataka,Shimoga,NH-169A,7,13.577546,74.8712498,left,58.2,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-AGUMBE-HB-249,Agumbe Ghat,Karnataka,Shimoga,NH-169A,8,13.7243401,74.9898942,right,57.9,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KA-AGUMBE-HB-258,Agumbe Ghat,Karnataka,Shimoga,NH-169A,9,13.7019219,74.9668167,right,73.0,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-AGUMBE-HB-403,Agumbe Ghat,Karnataka,Shimoga,NH-169A,10,13.5571669,75.1759509,left,20.0,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-AGUMBE-HB-654,Agumbe Ghat,Karnataka,Shimoga,NH-169A,11,13.6078691,74.8943459,right,20.0,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-AGUMBE-HB-721,Agumbe Ghat,Karnataka,Shimoga,NH-169A,12,13.5442734,74.9906337,right,58.4,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-AGUMBE-HB-914,Agumbe Ghat,Karnataka,Shimoga,NH-169A,13,13.5403559,74.8615033,left,32.3,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-AGUMBE-HB-1045,Agumbe Ghat,Karnataka,Shimoga,NH-169A,14,13.35406,74.9214123,right,48.3,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KA-AGUMBE-HB-1200,Agumbe Ghat,Karnataka,Shimoga,NH-169A,15,13.6736766,75.0438789,left,35.3,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-AGUMBE-HB-1336,Agumbe Ghat,Karnataka,Shimoga,NH-169A,16,13.6475737,75.2179937,right,72.0,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-AGUMBE-HB-1385,Agumbe Ghat,Karnataka,Shimoga,NH-169A,17,13.6023866,75.1943884,right,42.3,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-AGUMBE-HB-1403,Agumbe Ghat,Karnataka,Shimoga,NH-169A,18,13.5542556,75.3163795,left,72.7,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KA-AGUMBE-HB-1422,Agumbe Ghat,Karnataka,Shimoga,NH-169A,19,13.6502563,75.248966,right,37.0,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-AGUMBE-HB-1822,Agumbe Ghat,Karnataka,Shimoga,NH-169A,20,13.6419467,74.8981761,left,72.5,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-AGUMBE-HB-2083,Agumbe Ghat,Karnataka,Shimoga,NH-169A,21,13.5928658,75.0044667,left,63.6,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-AGUMBE-HB-2357,Agumbe Ghat,Karnataka,Shimoga,NH-169A,22,13.6656312,74.9988126,left,20.0,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KA-AGUMBE-HB-2732,Agumbe Ghat,Karnataka,Shimoga,NH-169A,23,13.756763,75.0783775,left,61.9,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KA-AGUMBE-HB-2779,Agumbe Ghat,Karnataka,Shimoga,NH-169A,24,13.7030987,75.0747779,left,48.0,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-AGUMBE-HB-5478,Agumbe Ghat,Karnataka,Shimoga,NH-169A,25,13.6786805,75.212939,right,41.0,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-AGUMBE-HB-5668,Agumbe Ghat,Karnataka,Shimoga,NH-169A,26,13.6223424,75.1556394,right,36.5,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KA-AGUMBE-HB-5781,Agumbe Ghat,Karnataka,Shimoga,NH-169A,27,13.6198527,75.127886,left,46.9,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-AGUMBE-HB-6304,Agumbe Ghat,Karnataka,Shimoga,NH-169A,28,13.6823916,75.2421989,right,58.6,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-AGUMBE-HB-6485,Agumbe Ghat,Karnataka,Shimoga,NH-169A,29,13.4652254,74.9849336,right,53.1,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-AGUMBE-HB-7540,Agumbe Ghat,Karnataka,Shimoga,NH-169A,30,13.6083539,75.2562435,right,70.2,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-AGUMBE-HB-8117,Agumbe Ghat,Karnataka,Shimoga,NH-169A,31,13.4916477,75.3124005,left,72.6,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-AGUMBE-HB-10956,Agumbe Ghat,Karnataka,Shimoga,NH-169A,32,13.5831959,75.166969,left,64.1,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KA-AGUMBE-HB-11161,Agumbe Ghat,Karnataka,Shimoga,NH-169A,33,13.5319173,74.9291128,right,68.7,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KA-AGUMBE-HB-11862,Agumbe Ghat,Karnataka,Shimoga,NH-169A,34,13.719268,75.1217483,left,39.5,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-AGUMBE-HB-12079,Agumbe Ghat,Karnataka,Shimoga,NH-169A,35,13.4657396,74.9343304,right,24.6,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-AGUMBE-HB-15277,Agumbe Ghat,Karnataka,Shimoga,NH-169A,36,13.3402002,75.1655077,left,71.8,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-AGUMBE-HB-15318,Agumbe Ghat,Karnataka,Shimoga,NH-169A,37,13.2620256,75.131801,left,29.5,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KA-AGUMBE-HB-15654,Agumbe Ghat,Karnataka,Shimoga,NH-169A,38,13.3246882,75.1416514,right,35.0,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-AGUMBE-HB-16171,Agumbe Ghat,Karnataka,Shimoga,NH-169A,39,13.4365446,74.9419042,right,74.2,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-AGUMBE-HB-16656,Agumbe Ghat,Karnataka,Shimoga,NH-169A,40,13.4962354,75.1892146,right,22.9,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-AGUMBE-HB-16747,Agumbe Ghat,Karnataka,Shimoga,NH-169A,41,13.3828548,75.3135296,right,74.9,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-AGUMBE-HB-16932,Agumbe Ghat,Karnataka,Shimoga,NH-169A,42,13.4657495,75.2156344,left,59.7,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-AGUMBE-HB-17027,Agumbe Ghat,Karnataka,Shimoga,NH-169A,43,13.3516722,75.2487946,left,60.4,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KA-AGUMBE-HB-17609,Agumbe Ghat,Karnataka,Shimoga,NH-169A,44,13.454045,75.2563745,left,67.1,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-AGUMBE-HB-20560,Agumbe Ghat,Karnataka,Shimoga,NH-169A,45,13.4548431,74.900901,right,41.3,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KA-AGUMBE-HB-26671,Agumbe Ghat,Karnataka,Shimoga,NH-169A,46,13.3193066,74.9519095,left,51.7,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KA-AGUMBE-HB-27573,Agumbe Ghat,Karnataka,Shimoga,NH-169A,47,13.4279971,74.907592,right,20.0,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-AGUMBE-HB-32164,Agumbe Ghat,Karnataka,Shimoga,NH-169A,48,13.3660565,74.9572707,right,23.7,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-AGUMBE-HB-38380,Agumbe Ghat,Karnataka,Shimoga,NH-169A,49,13.4074888,74.9588638,left,50.1,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-AGUMBE-HB-46109,Agumbe Ghat,Karnataka,Shimoga,NH-169A,50,13.3768598,75.2064653,right,57.3,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KA-AGUMBE-HB-66459,Agumbe Ghat,Karnataka,Shimoga,NH-169A,51,13.5122323,74.8663264,right,49.9,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-AGUMBE-HB-76411,Agumbe Ghat,Karnataka,Shimoga,NH-169A,52,13.4971874,75.2599391,right,68.9,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-AGUMBE-HB-94346,Agumbe Ghat,Karnataka,Shimoga,NH-169A,53,13.4929876,75.14435,left,69.1,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KA-AGUMBE-HB-96827,Agumbe Ghat,Karnataka,Shimoga,NH-169A,54,13.3229784,75.0533528,left,67.5,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-AGUMBE-HB-108692,Agumbe Ghat,Karnataka,Shimoga,NH-169A,55,13.363974,75.1303858,left,36.0,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-AGUMBE-HB-108888,Agumbe Ghat,Karnataka,Shimoga,NH-169A,56,13.2894069,75.1357636,left,50.3,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KA-AGUMBE-HB-113773,Agumbe Ghat,Karnataka,Shimoga,NH-169A,57,13.6453009,75.0250706,left,59.9,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-AGUMBE-HB-114846,Agumbe Ghat,Karnataka,Shimoga,NH-169A,58,13.5622608,75.1230209,right,64.0,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-AGUMBE-HB-117227,Agumbe Ghat,Karnataka,Shimoga,NH-169A,59,13.6526436,75.1495799,right,70.1,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KA-CHARMADI-HB-121575,Charmadi Ghat,Karnataka,Dakshina Kannada,NH-73,60,12.9735855,75.5980352,right,20.0,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-CHARMADI-HB-121579,Charmadi Ghat,Karnataka,Dakshina Kannada,NH-73,61,12.936881,75.5725402,left,71.9,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-CHARMADI-HB-121602,Charmadi Ghat,Karnataka,Dakshina Kannada,NH-73,62,13.2627991,75.4287681,left,56.3,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-CHARMADI-HB-121603,Charmadi Ghat,Karnataka,Dakshina Kannada,NH-73,63,13.2739568,75.4720616,left,67.5,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-CHARMADI-HB-121612,Charmadi Ghat,Karnataka,Dakshina Kannada,NH-73,64,13.2654565,75.3462988,left,56.7,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-CHARMADI-HB-121618,Charmadi Ghat,Karnataka,Dakshina Kannada,NH-73,65,13.1319967,75.4139585,right,43.2,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KA-CHARMADI-HB-121667,Charmadi Ghat,Karnataka,Dakshina Kannada,NH-73,66,13.1306991,75.6323843,left,31.0,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-CHARMADI-HB-121738,Charmadi Ghat,Karnataka,Dakshina Kannada,NH-73,67,12.9740939,75.3880602,left,33.6,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-CHARMADI-HB-121787,Charmadi Ghat,Karnataka,Dakshina Kannada,NH-73,68,13.1516086,75.5028677,left,70.8,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KA-CHARMADI-HB-121815,Charmadi Ghat,Karnataka,Dakshina Kannada,NH-73,69,13.2036139,75.4896677,right,69.9,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KA-CHARMADI-HB-121876,Charmadi Ghat,Karnataka,Dakshina Kannada,NH-73,70,13.2073891,75.3883713,right,74.7,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KA-CHARMADI-HB-121877,Charmadi Ghat,Karnataka,Dakshina Kannada,NH-73,71,13.2291491,75.3687657,right,51.2,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KA-CHARMADI-HB-121940,Charmadi Ghat,Karnataka,Dakshina Kannada,NH-73,72,13.1940296,75.2953631,right,55.5,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-CHARMADI-HB-121955,Charmadi Ghat,Karnataka,Dakshina Kannada,NH-73,73,13.1935635,75.2568096,left,40.3,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-CHARMADI-HB-122061,Charmadi Ghat,Karnataka,Dakshina Kannada,NH-73,74,13.1693584,75.4357872,right,69.2,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-CHARMADI-HB-122110,Charmadi Ghat,Karnataka,Dakshina Kannada,NH-73,75,13.1631391,75.402158,left,65.1,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KA-CHARMADI-HB-122148,Charmadi Ghat,Karnataka,Dakshina Kannada,NH-73,76,13.1404311,75.6601837,right,20.0,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-CHARMADI-HB-122758,Charmadi Ghat,Karnataka,Dakshina Kannada,NH-73,77,13.0442665,75.6348083,right,59.8,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KA-CHARMADI-HB-122822,Charmadi Ghat,Karnataka,Dakshina Kannada,NH-73,78,12.9846533,75.2717932,right,68.1,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KA-CHARMADI-HB-122977,Charmadi Ghat,Karnataka,Dakshina Kannada,NH-73,79,13.0681967,75.4383714,left,41.0,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KA-CHARMADI-HB-122978,Charmadi Ghat,Karnataka,Dakshina Kannada,NH-73,80,13.0779934,75.4727568,right,49.3,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KA-CHARMADI-HB-123003,Charmadi Ghat,Karnataka,Dakshina Kannada,NH-73,81,13.1129481,75.4961188,right,74.3,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KA-CHARMADI-HB-123029,Charmadi Ghat,Karnataka,Dakshina Kannada,NH-73,82,13.1326382,75.5717848,left,68.5,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-CHARMADI-HB-123680,Charmadi Ghat,Karnataka,Dakshina Kannada,NH-73,83,13.0372526,75.2935335,right,20.5,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-CHARMADI-HB-124059,Charmadi Ghat,Karnataka,Dakshina Kannada,NH-73,84,13.0175409,75.1678451,left,53.7,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-CHARMADI-HB-124368,Charmadi Ghat,Karnataka,Dakshina Kannada,NH-73,85,13.2315525,75.5572559,right,61.5,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-CHARMADI-HB-124398,Charmadi Ghat,Karnataka,Dakshina Kannada,NH-73,86,13.2399576,75.5229631,left,67.4,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KA-CHARMADI-HB-124699,Charmadi Ghat,Karnataka,Dakshina Kannada,NH-73,87,13.1865031,75.6652354,left,55.1,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KA-CHARMADI-HB-124855,Charmadi Ghat,Karnataka,Dakshina Kannada,NH-73,88,13.1672417,75.3065906,left,37.7,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KA-CHARMADI-HB-124920,Charmadi Ghat,Karnataka,Dakshina Kannada,NH-73,89,13.1329614,75.2795591,left,68.0,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KA-CHARMADI-HB-125251,Charmadi Ghat,Karnataka,Dakshina Kannada,NH-73,90,13.1104229,75.549552,left,38.3,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KA-CHARMADI-HB-125286,Charmadi Ghat,Karnataka,Dakshina Kannada,NH-73,91,13.0444509,75.5969131,right,22.6,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-CHARMADI-HB-125322,Charmadi Ghat,Karnataka,Dakshina Kannada,NH-73,92,13.0600322,75.2348619,right,64.4,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-CHARMADI-HB-125611,Charmadi Ghat,Karnataka,Dakshina Kannada,NH-73,93,12.9896013,75.3411365,left,54.2,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-CHARMADI-HB-125760,Charmadi Ghat,Karnataka,Dakshina Kannada,NH-73,94,13.0082794,75.6808716,left,36.8,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-CHARMADI-HB-125799,Charmadi Ghat,Karnataka,Dakshina Kannada,NH-73,95,13.1819888,75.3645088,left,37.7,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KA-CHARMADI-HB-126619,Charmadi Ghat,Karnataka,Dakshina Kannada,NH-73,96,13.0579545,75.3462124,left,49.9,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KA-CHARMADI-HB-127140,Charmadi Ghat,Karnataka,Dakshina Kannada,NH-73,97,13.0382685,75.4072219,left,25.2,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-CHARMADI-HB-127797,Charmadi Ghat,Karnataka,Dakshina Kannada,NH-73,98,12.9349919,75.2243113,left,45.5,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KA-CHARMADI-HB-128554,Charmadi Ghat,Karnataka,Dakshina Kannada,NH-73,99,13.0415061,75.4827931,left,20.0,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-CHARMADI-HB-129157,Charmadi Ghat,Karnataka,Dakshina Kannada,NH-73,100,12.8268174,75.379512,left,32.1,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-CHARMADI-HB-129510,Charmadi Ghat,Karnataka,Dakshina Kannada,NH-73,101,13.157539,75.6365843,left,34.5,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KA-CHARMADI-HB-129649,Charmadi Ghat,Karnataka,Dakshina Kannada,NH-73,102,13.2061658,75.4178555,left,29.6,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-CHARMADI-HB-129744,Charmadi Ghat,Karnataka,Dakshina Kannada,NH-73,103,13.2865537,75.4027359,left,63.1,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-CHARMADI-HB-129745,Charmadi Ghat,Karnataka,Dakshina Kannada,NH-73,104,13.3071646,75.3841683,left,52.5,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-CHARMADI-HB-129746,Charmadi Ghat,Karnataka,Dakshina Kannada,NH-73,105,13.3375793,75.3466268,left,63.5,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-CHARMADI-HB-129897,Charmadi Ghat,Karnataka,Dakshina Kannada,NH-73,106,13.2111428,75.3193313,left,53.4,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-CHARMADI-HB-130361,Charmadi Ghat,Karnataka,Dakshina Kannada,NH-73,107,13.1923361,75.6074354,left,28.9,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-CHARMADI-HB-130680,Charmadi Ghat,Karnataka,Dakshina Kannada,NH-73,108,13.1694798,75.541673,right,54.4,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KA-CHARMADI-HB-130789,Charmadi Ghat,Karnataka,Dakshina Kannada,NH-73,109,13.1388665,75.5308919,right,36.8,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-CHARMADI-HB-131010,Charmadi Ghat,Karnataka,Dakshina Kannada,NH-73,110,13.0585829,75.5403654,right,20.0,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-CHARMADI-HB-131515,Charmadi Ghat,Karnataka,Dakshina Kannada,NH-73,111,13.0144102,75.5940807,right,36.0,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-CHARMADI-HB-131744,Charmadi Ghat,Karnataka,Dakshina Kannada,NH-73,112,13.07975,75.5698362,right,52.4,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KA-CHARMADI-HB-132688,Charmadi Ghat,Karnataka,Dakshina Kannada,NH-73,113,12.9745801,75.6423041,left,20.0,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-CHARMADI-HB-132809,Charmadi Ghat,Karnataka,Dakshina Kannada,NH-73,114,13.2352889,75.3984699,right,20.0,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-CHARMADI-HB-133847,Charmadi Ghat,Karnataka,Dakshina Kannada,NH-73,115,13.0883192,75.6024787,left,58.4,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KA-CHARMADI-HB-154406,Charmadi Ghat,Karnataka,Dakshina Kannada,NH-73,116,13.0809165,75.6383211,right,71.5,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-CHARMADI-HB-165596,Charmadi Ghat,Karnataka,Dakshina Kannada,NH-73,117,13.0058246,75.2921612,left,49.0,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KA-CHARMADI-HB-168793,Charmadi Ghat,Karnataka,Dakshina Kannada,NH-73,118,12.9646295,75.2507705,right,55.5,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-CHARMADI-HB-170933,Charmadi Ghat,Karnataka,Dakshina Kannada,NH-73,119,13.0642231,75.1857629,right,28.0,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KA-CHARMADI-HB-173338,Charmadi Ghat,Karnataka,Dakshina Kannada,NH-73,120,13.1334257,75.4450062,right,20.0,,hairpin,,,2,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KA-CHARMADI-HB-182006,Charmadi Ghat,Karnataka,Dakshina Kannada,NH-73,121,12.8614524,75.5013642,right,20.0,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-CHARMADI-HB-191335,Charmadi Ghat,Karnataka,Dakshina Kannada,NH-73,122,13.2238108,75.5921763,left,45.3,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-SAMPAJE-HB-198888,Sampaje Ghat,Karnataka,Dakshina Kannada,NH-275,123,12.433232,75.671258,right,65.1,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KA-SAMPAJE-HB-198890,Sampaje Ghat,Karnataka,Dakshina Kannada,NH-275,124,12.450968,75.644008,left,47.4,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-SAMPAJE-HB-198909,Sampaje Ghat,Karnataka,Dakshina Kannada,NH-275,125,12.4367466,75.734198,right,35.5,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KA-SAMPAJE-HB-198992,Sampaje Ghat,Karnataka,Dakshina Kannada,NH-275,126,12.2948497,75.4738549,right,67.0,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KA-SAMPAJE-HB-199003,Sampaje Ghat,Karnataka,Dakshina Kannada,NH-275,127,12.3760971,75.8247335,left,40.8,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-SAMPAJE-HB-199004,Sampaje Ghat,Karnataka,Dakshina Kannada,NH-275,128,12.4008329,75.7628791,left,37.6,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-SAMPAJE-HB-199096,Sampaje Ghat,Karnataka,Dakshina Kannada,NH-275,129,12.4692228,75.3796637,right,33.7,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-SAMPAJE-HB-199218,Sampaje Ghat,Karnataka,Dakshina Kannada,NH-275,130,12.3787303,75.5156894,right,49.2,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KA-SAMPAJE-HB-200329,Sampaje Ghat,Karnataka,Dakshina Kannada,NH-275,131,12.5166176,75.3929378,right,73.0,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KA-SAMPAJE-HB-200411,Sampaje Ghat,Karnataka,Dakshina Kannada,NH-275,132,12.6911238,75.6188614,right,25.7,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-SAMPAJE-HB-200412,Sampaje Ghat,Karnataka,Dakshina Kannada,NH-275,133,12.7059024,75.6425158,left,64.1,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-SAMPAJE-HB-200441,Sampaje Ghat,Karnataka,Dakshina Kannada,NH-275,134,12.6688073,75.6865415,right,67.6,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-SAMPAJE-HB-200577,Sampaje Ghat,Karnataka,Dakshina Kannada,NH-275,135,12.3533436,75.6974552,left,20.1,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-SAMPAJE-HB-200594,Sampaje Ghat,Karnataka,Dakshina Kannada,NH-275,136,12.3526282,75.6545767,right,65.9,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-SAMPAJE-HB-200595,Sampaje Ghat,Karnataka,Dakshina Kannada,NH-275,137,12.3758522,75.5881303,right,27.6,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-SAMPAJE-HB-200740,Sampaje Ghat,Karnataka,Dakshina Kannada,NH-275,138,12.676809,75.3764489,left,65.2,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-SAMPAJE-HB-201016,Sampaje Ghat,Karnataka,Dakshina Kannada,NH-275,139,12.5616737,75.3864775,right,55.1,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-SAMPAJE-HB-201500,Sampaje Ghat,Karnataka,Dakshina Kannada,NH-275,140,12.644128,75.3327772,right,61.9,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-SAMPAJE-HB-201523,Sampaje Ghat,Karnataka,Dakshina Kannada,NH-275,141,12.5721313,75.297404,left,63.3,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-SAMPAJE-HB-201662,Sampaje Ghat,Karnataka,Dakshina Kannada,NH-275,142,12.5351092,75.4755468,left,49.0,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KA-SAMPAJE-HB-201855,Sampaje Ghat,Karnataka,Dakshina Kannada,NH-275,143,12.3289076,75.7390862,left,58.1,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KA-SAMPAJE-HB-201906,Sampaje Ghat,Karnataka,Dakshina Kannada,NH-275,144,12.3870324,75.5621065,right,48.4,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KA-SAMPAJE-HB-201959,Sampaje Ghat,Karnataka,Dakshina Kannada,NH-275,145,12.5659994,75.3449888,right,39.6,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-SAMPAJE-HB-202203,Sampaje Ghat,Karnataka,Dakshina Kannada,NH-275,146,12.4847322,75.7336792,right,31.6,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-SAMPAJE-HB-203189,Sampaje Ghat,Karnataka,Dakshina Kannada,NH-275,147,12.4481717,75.3490693,left,36.9,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-SAMPAJE-HB-203490,Sampaje Ghat,Karnataka,Dakshina Kannada,NH-275,148,12.335521,75.4123278,left,70.8,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-SAMPAJE-HB-203863,Sampaje Ghat,Karnataka,Dakshina Kannada,NH-275,149,12.3911145,75.7140006,right,20.0,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-SAMPAJE-HB-203896,Sampaje Ghat,Karnataka,Dakshina Kannada,NH-275,150,12.5745016,75.4150166,left,36.5,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-SAMPAJE-HB-205514,Sampaje Ghat,Karnataka,Dakshina Kannada,NH-275,151,12.3094787,75.6507938,left,61.7,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-SAMPAJE-HB-205617,Sampaje Ghat,Karnataka,Dakshina Kannada,NH-275,152,12.3420619,75.5954878,right,50.5,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-SAMPAJE-HB-206592,Sampaje Ghat,Karnataka,Dakshina Kannada,NH-275,153,12.5853116,75.735757,right,28.5,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-SAMPAJE-HB-206669,Sampaje Ghat,Karnataka,Dakshina Kannada,NH-275,154,12.5595745,75.77712,right,66.1,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-SAMPAJE-HB-211389,Sampaje Ghat,Karnataka,Dakshina Kannada,NH-275,155,12.5243492,75.3375623,right,40.4,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-SAMPAJE-HB-212169,Sampaje Ghat,Karnataka,Dakshina Kannada,NH-275,156,12.5932113,75.5347958,right,26.8,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KA-SAMPAJE-HB-212464,Sampaje Ghat,Karnataka,Dakshina Kannada,NH-275,157,12.5981979,75.4598147,right,39.5,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KA-SAMPAJE-HB-212637,Sampaje Ghat,Karnataka,Dakshina Kannada,NH-275,158,12.6517504,75.5750746,left,71.0,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-SAMPAJE-HB-212638,Sampaje Ghat,Karnataka,Dakshina Kannada,NH-275,159,12.6574621,75.6055156,right,49.5,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KA-SAMPAJE-HB-212774,Sampaje Ghat,Karnataka,Dakshina Kannada,NH-275,160,12.6759271,75.427824,right,42.9,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-SAMPAJE-HB-213051,Sampaje Ghat,Karnataka,Dakshina Kannada,NH-275,161,12.6297345,75.4357003,right,41.9,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KA-SAMPAJE-HB-213428,Sampaje Ghat,Karnataka,Dakshina Kannada,NH-275,162,12.4840892,75.5201019,right,43.1,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-SAMPAJE-HB-213717,Sampaje Ghat,Karnataka,Dakshina Kannada,NH-275,163,12.505174,75.4373002,right,58.6,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KA-SAMPAJE-HB-213914,Sampaje Ghat,Karnataka,Dakshina Kannada,NH-275,164,12.3935803,75.6557554,left,25.4,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-SAMPAJE-HB-216336,Sampaje Ghat,Karnataka,Dakshina Kannada,NH-275,165,12.3949389,75.3607965,left,54.3,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-SAMPAJE-HB-219964,Sampaje Ghat,Karnataka,Dakshina Kannada,NH-275,166,12.485491,75.4813124,right,64.4,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-SAMPAJE-HB-220518,Sampaje Ghat,Karnataka,Dakshina Kannada,NH-275,167,12.4168085,75.4986945,left,33.1,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KA-SAMPAJE-HB-220519,Sampaje Ghat,Karnataka,Dakshina Kannada,NH-275,168,12.4363265,75.4607246,right,29.9,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-SAMPAJE-HB-220520,Sampaje Ghat,Karnataka,Dakshina Kannada,NH-275,169,12.4462445,75.4339996,left,49.9,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KA-SAMPAJE-HB-224199,Sampaje Ghat,Karnataka,Dakshina Kannada,NH-275,170,12.4787036,75.3208837,left,20.0,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-SAMPAJE-HB-224566,Sampaje Ghat,Karnataka,Dakshina Kannada,NH-275,171,12.4058716,75.3353314,left,68.8,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-SAMPAJE-HB-236843,Sampaje Ghat,Karnataka,Dakshina Kannada,NH-275,172,12.5361166,75.7294873,left,20.0,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KA-SAMPAJE-HB-242388,Sampaje Ghat,Karnataka,Dakshina Kannada,NH-275,173,12.4789047,75.6541004,left,43.7,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-TN-KOLLI-HB-246748,Kolli Hills Ghat Road,Tamil Nadu,Namakkal,,174,11.2761674,78.4092671,right,72.3,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-TN-KOLLI-HB-246754,Kolli Hills Ghat Road,Tamil Nadu,Namakkal,,175,11.3070721,78.3560178,right,40.2,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-TN-KOLLI-HB-246755,Kolli Hills Ghat Road,Tamil Nadu,Namakkal,,176,11.3424051,78.3604145,right,65.8,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-TN-KOLLI-HB-246756,Kolli Hills Ghat Road,Tamil Nadu,Namakkal,,177,11.3760767,78.3549522,right,70.0,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-TN-KOLLI-HB-246758,Kolli Hills Ghat Road,Tamil Nadu,Namakkal,,178,11.4243728,78.3829182,right,47.4,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-TN-KOLLI-HB-246771,Kolli Hills Ghat Road,Tamil Nadu,Namakkal,,179,11.4014806,78.407211,left,51.3,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-TN-KOLLI-HB-246800,Kolli Hills Ghat Road,Tamil Nadu,Namakkal,,180,11.303691,78.407209,right,20.0,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-TN-KOLLI-HB-246809,Kolli Hills Ghat Road,Tamil Nadu,Namakkal,,181,11.2174977,78.3618857,right,28.9,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-TN-KOLLI-HB-246810,Kolli Hills Ghat Road,Tamil Nadu,Namakkal,,182,11.2303405,78.3294559,left,20.0,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-TN-KOLLI-HB-246811,Kolli Hills Ghat Road,Tamil Nadu,Namakkal,,183,11.2387584,78.384519,left,27.7,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-TN-KOLLI-HB-246812,Kolli Hills Ghat Road,Tamil Nadu,Namakkal,,184,11.2708321,78.3252152,left,20.0,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-TN-KOLLI-HB-246837,Kolli Hills Ghat Road,Tamil Nadu,Namakkal,,185,11.3746633,78.3006844,right,70.4,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-TN-KOLLI-HB-247072,Kolli Hills Ghat Road,Tamil Nadu,Namakkal,,186,11.3387479,78.4255855,right,48.5,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-TN-KOLLI-HB-247115,Kolli Hills Ghat Road,Tamil Nadu,Namakkal,,187,11.2770937,78.3761712,right,52.0,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-TN-KOLLI-HB-247131,Kolli Hills Ghat Road,Tamil Nadu,Namakkal,,188,11.3496008,78.3959264,right,20.0,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-TN-KOLLI-HB-247132,Kolli Hills Ghat Road,Tamil Nadu,Namakkal,,189,11.3760938,78.4439224,left,23.6,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-TN-KOLLI-HB-248153,Kolli Hills Ghat Road,Tamil Nadu,Namakkal,,190,11.2077067,78.2032899,right,27.7,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-TN-KOLLI-HB-248712,Kolli Hills Ghat Road,Tamil Nadu,Namakkal,,191,11.2489861,78.1868987,left,73.6,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-TN-KOLLI-HB-249131,Kolli Hills Ghat Road,Tamil Nadu,Namakkal,,192,11.339934,78.2112063,right,35.2,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-TN-KOLLI-HB-250112,Kolli Hills Ghat Road,Tamil Nadu,Namakkal,,193,11.4082196,78.2190352,right,20.0,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-TN-KOLLI-HB-250575,Kolli Hills Ghat Road,Tamil Nadu,Namakkal,,194,11.4023898,78.2574527,left,64.0,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-TN-KOLLI-HB-250818,Kolli Hills Ghat Road,Tamil Nadu,Namakkal,,195,11.2957967,78.1977579,right,25.6,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-TN-KOLLI-HB-251279,Kolli Hills Ghat Road,Tamil Nadu,Namakkal,,196,11.2277004,78.275761,right,26.9,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-TN-KOLLI-HB-251976,Kolli Hills Ghat Road,Tamil Nadu,Namakkal,,197,11.1986568,78.5242828,right,50.7,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-TN-KOLLI-HB-252183,Kolli Hills Ghat Road,Tamil Nadu,Namakkal,,198,11.2638509,78.5114276,right,74.6,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-TN-KOLLI-HB-252805,Kolli Hills Ghat Road,Tamil Nadu,Namakkal,,199,11.1276207,78.4496928,right,73.4,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-TN-KOLLI-HB-256614,Kolli Hills Ghat Road,Tamil Nadu,Namakkal,,200,11.1761497,78.2387983,left,64.0,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-TN-KOLLI-HB-257601,Kolli Hills Ghat Road,Tamil Nadu,Namakkal,,201,11.3160977,78.5827267,left,66.0,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-TN-KOLLI-HB-257602,Kolli Hills Ghat Road,Tamil Nadu,Namakkal,,202,11.343265,78.5847571,right,39.0,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-TN-KOLLI-HB-257603,Kolli Hills Ghat Road,Tamil Nadu,Namakkal,,203,11.3596457,78.6096346,right,24.7,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-TN-KOLLI-HB-257636,Kolli Hills Ghat Road,Tamil Nadu,Namakkal,,204,11.3592644,78.5542202,left,30.9,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-TN-KOLLI-HB-257769,Kolli Hills Ghat Road,Tamil Nadu,Namakkal,,205,11.2849482,78.6266774,left,20.0,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-TN-KOLLI-HB-258144,Kolli Hills Ghat Road,Tamil Nadu,Namakkal,,206,11.2876706,78.4884471,left,48.9,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-TN-KOLLI-HB-261680,Kolli Hills Ghat Road,Tamil Nadu,Namakkal,,207,11.4284767,78.514722,right,61.8,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-TN-KOLLI-HB-262221,Kolli Hills Ghat Road,Tamil Nadu,Namakkal,,208,11.4413035,78.5485205,right,38.6,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-TN-KOLLI-HB-263406,Kolli Hills Ghat Road,Tamil Nadu,Namakkal,,209,11.4539732,78.4302498,right,38.0,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-TN-KOLLI-HB-263521,Kolli Hills Ghat Road,Tamil Nadu,Namakkal,,210,11.4770465,78.4691164,left,55.1,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-TN-KOLLI-HB-264653,Kolli Hills Ghat Road,Tamil Nadu,Namakkal,,211,11.4929148,78.384077,right,39.5,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-TN-KOLLI-HB-265294,Kolli Hills Ghat Road,Tamil Nadu,Namakkal,,212,11.4763736,78.3400351,right,49.3,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-TN-KOLLI-HB-265377,Kolli Hills Ghat Road,Tamil Nadu,Namakkal,,213,11.5405668,78.3650011,left,49.8,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-TN-KOLLI-HB-266176,Kolli Hills Ghat Road,Tamil Nadu,Namakkal,,214,11.4102885,78.3133283,right,45.4,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-TN-KOLLI-HB-270797,Kolli Hills Ghat Road,Tamil Nadu,Namakkal,,215,11.1948603,78.5590294,left,39.2,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-TN-KOLLI-HB-279083,Kolli Hills Ghat Road,Tamil Nadu,Namakkal,,216,11.3800972,78.5045041,left,42.8,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-TN-KOLLI-HB-282780,Kolli Hills Ghat Road,Tamil Nadu,Namakkal,,217,11.3363433,78.4574997,left,47.2,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-TN-KOLLI-HB-292512,Kolli Hills Ghat Road,Tamil Nadu,Namakkal,,218,11.291737,78.5970712,left,65.4,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-TN-KOLLI-HB-301977,Kolli Hills Ghat Road,Tamil Nadu,Namakkal,,219,11.1488192,78.3731872,left,20.0,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-TN-KOLLI-HB-302349,Kolli Hills Ghat Road,Tamil Nadu,Namakkal,,220,11.2379163,78.4685196,left,22.7,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-TN-KOLLI-HB-306238,Kolli Hills Ghat Road,Tamil Nadu,Namakkal,,221,11.5294867,78.4223765,left,27.1,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-TN-KOLLI-HB-307449,Kolli Hills Ghat Road,Tamil Nadu,Namakkal,,222,11.4908739,78.4166546,left,20.0,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-TN-KOLLI-HB-307842,Kolli Hills Ghat Road,Tamil Nadu,Namakkal,,223,11.4350286,78.4102481,left,71.3,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-TN-KOLLI-HB-308926,Kolli Hills Ghat Road,Tamil Nadu,Namakkal,,224,11.4411287,78.3001864,left,35.9,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-TN-KOLLI-HB-316002,Kolli Hills Ghat Road,Tamil Nadu,Namakkal,,225,11.4978564,78.2903026,left,20.0,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-TN-KOLLI-HB-321790,Kolli Hills Ghat Road,Tamil Nadu,Namakkal,,226,11.4435504,78.2141715,left,20.0,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-TN-KOLLI-HB-323618,Kolli Hills Ghat Road,Tamil Nadu,Namakkal,,227,11.4528302,78.2463632,left,28.9,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-TN-KOLLI-HB-343172,Kolli Hills Ghat Road,Tamil Nadu,Namakkal,,228,11.381338,78.2290025,right,50.5,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-TN-KOLLI-HB-345417,Kolli Hills Ghat Road,Tamil Nadu,Namakkal,,229,11.3692402,78.2634179,right,43.7,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-TN-KOLLI-HB-348366,Kolli Hills Ghat Road,Tamil Nadu,Namakkal,,230,11.3390336,78.2592674,right,70.0,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-TN-KOLLI-HB-354623,Kolli Hills Ghat Road,Tamil Nadu,Namakkal,,231,11.4039293,78.1860156,left,20.0,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-TN-KOLLI-HB-360558,Kolli Hills Ghat Road,Tamil Nadu,Namakkal,,232,11.322315,78.1820946,right,62.8,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-TN-KOLLI-HB-369960,Kolli Hills Ghat Road,Tamil Nadu,Namakkal,,233,11.536434,78.4496735,left,31.2,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-TN-KOLLI-HB-372337,Kolli Hills Ghat Road,Tamil Nadu,Namakkal,,234,11.4601976,78.3787124,right,51.2,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-TN-KOLLI-HB-372776,Kolli Hills Ghat Road,Tamil Nadu,Namakkal,,235,11.4459377,78.3521471,right,44.4,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-TN-KOLLI-HB-375388,Kolli Hills Ghat Road,Tamil Nadu,Namakkal,,236,11.174586,78.3245715,left,23.4,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-TN-KOLLI-HB-376833,Kolli Hills Ghat Road,Tamil Nadu,Namakkal,,237,11.1324808,78.3124609,right,20.0,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-TN-KOLLI-HB-395129,Kolli Hills Ghat Road,Tamil Nadu,Namakkal,,238,11.2844545,78.2361354,right,20.0,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-TN-KOLLI-HB-401450,Kolli Hills Ghat Road,Tamil Nadu,Namakkal,,239,11.2138419,78.2503791,right,40.9,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-TN-KOLLI-HB-402824,Kolli Hills Ghat Road,Tamil Nadu,Namakkal,,240,11.2395198,78.2232971,right,43.9,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-TN-KOLLI-HB-424145,Kolli Hills Ghat Road,Tamil Nadu,Namakkal,,241,11.1827042,78.4217268,right,43.8,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-TN-KOLLI-HB-427051,Kolli Hills Ghat Road,Tamil Nadu,Namakkal,,242,11.5065544,78.3414868,left,53.7,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-TN-KOLLI-HB-472160,Kolli Hills Ghat Road,Tamil Nadu,Namakkal,,243,11.2103039,78.4217715,left,30.1,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-TN-KOLLI-HB-483891,Kolli Hills Ghat Road,Tamil Nadu,Namakkal,,244,11.1100828,78.3867392,left,32.3,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-TN-KOLLI-HB-514508,Kolli Hills Ghat Road,Tamil Nadu,Namakkal,,245,11.478387,78.5466176,right,59.3,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-TN-KOLLI-HB-524514,Kolli Hills Ghat Road,Tamil Nadu,Namakkal,,246,11.4555864,78.4944594,right,20.0,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-TN-KOLLI-HB-538371,Kolli Hills Ghat Road,Tamil Nadu,Namakkal,,247,11.3261878,78.3339491,right,20.0,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KL-THAMARASSERY-HB-538912,Thamarassery Churam,Kerala,Kozhikode,NH-766,248,11.504626,76.1439679,left,29.9,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KL-THAMARASSERY-HB-538931,Thamarassery Churam,Kerala,Kozhikode,NH-766,249,11.3115503,76.2008688,left,55.3,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KL-THAMARASSERY-HB-538954,Thamarassery Churam,Kerala,Kozhikode,NH-766,250,11.3157738,75.9338929,left,72.1,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KL-THAMARASSERY-HB-539462,Thamarassery Churam,Kerala,Kozhikode,NH-766,251,11.2548897,75.9491112,left,33.5,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KL-THAMARASSERY-HB-539479,Thamarassery Churam,Kerala,Kozhikode,NH-766,252,11.295467,75.8729795,right,52.8,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KL-THAMARASSERY-HB-539915,Thamarassery Churam,Kerala,Kozhikode,NH-766,253,11.5501742,75.9010677,left,57.0,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KL-THAMARASSERY-HB-540096,Thamarassery Churam,Kerala,Kozhikode,NH-766,254,11.5243253,75.8439196,right,60.5,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KL-THAMARASSERY-HB-540230,Thamarassery Churam,Kerala,Kozhikode,NH-766,255,11.4810469,76.0178585,left,35.9,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KL-THAMARASSERY-HB-540623,Thamarassery Churam,Kerala,Kozhikode,NH-766,256,11.5394735,75.8691198,right,59.0,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KL-THAMARASSERY-HB-540804,Thamarassery Churam,Kerala,Kozhikode,NH-766,257,11.2087049,75.9531348,right,52.2,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KL-THAMARASSERY-HB-540885,Thamarassery Churam,Kerala,Kozhikode,NH-766,258,11.5756755,76.0466075,right,67.8,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KL-THAMARASSERY-HB-541084,Thamarassery Churam,Kerala,Kozhikode,NH-766,259,11.5855616,76.1427715,right,33.1,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KL-THAMARASSERY-HB-541109,Thamarassery Churam,Kerala,Kozhikode,NH-766,260,11.3586302,76.1077772,right,69.2,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KL-THAMARASSERY-HB-541331,Thamarassery Churam,Kerala,Kozhikode,NH-766,261,11.52562,76.20963,right,56.4,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KL-THAMARASSERY-HB-541556,Thamarassery Churam,Kerala,Kozhikode,NH-766,262,11.4551069,76.0345428,right,43.4,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KL-THAMARASSERY-HB-542114,Thamarassery Churam,Kerala,Kozhikode,NH-766,263,11.5479701,76.1226071,left,74.2,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KL-THAMARASSERY-HB-542818,Thamarassery Churam,Kerala,Kozhikode,NH-766,264,11.55739,76.1621216,left,73.9,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KL-THAMARASSERY-HB-543313,Thamarassery Churam,Kerala,Kozhikode,NH-766,265,11.4821617,75.8849252,left,21.4,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KL-THAMARASSERY-HB-544910,Thamarassery Churam,Kerala,Kozhikode,NH-766,266,11.5144725,76.0322048,right,74.2,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KL-THAMARASSERY-HB-545571,Thamarassery Churam,Kerala,Kozhikode,NH-766,267,11.2990026,75.8234713,right,48.2,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KL-THAMARASSERY-HB-545848,Thamarassery Churam,Kerala,Kozhikode,NH-766,268,11.3759951,76.0615027,right,65.7,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KL-THAMARASSERY-HB-546390,Thamarassery Churam,Kerala,Kozhikode,NH-766,269,11.5745629,76.0896778,right,47.6,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KL-THAMARASSERY-HB-546651,Thamarassery Churam,Kerala,Kozhikode,NH-766,270,11.3503396,76.2493516,right,71.0,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KL-THAMARASSERY-HB-546733,Thamarassery Churam,Kerala,Kozhikode,NH-766,271,11.3670519,76.2208541,left,63.8,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KL-THAMARASSERY-HB-546846,Thamarassery Churam,Kerala,Kozhikode,NH-766,272,11.3628565,76.1935651,left,67.4,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KL-THAMARASSERY-HB-547398,Thamarassery Churam,Kerala,Kozhikode,NH-766,273,11.4982622,75.8520654,left,65.8,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KL-THAMARASSERY-HB-547429,Thamarassery Churam,Kerala,Kozhikode,NH-766,274,11.444391,75.973781,left,24.7,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KL-THAMARASSERY-HB-547554,Thamarassery Churam,Kerala,Kozhikode,NH-766,275,11.434273,75.839036,right,47.5,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KL-THAMARASSERY-HB-549923,Thamarassery Churam,Kerala,Kozhikode,NH-766,276,11.6304648,76.0804979,left,73.0,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KL-THAMARASSERY-HB-550815,Thamarassery Churam,Kerala,Kozhikode,NH-766,277,11.5840744,75.9154419,left,43.2,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KL-THAMARASSERY-HB-551632,Thamarassery Churam,Kerala,Kozhikode,NH-766,278,11.6102286,75.9893766,right,66.5,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KL-THAMARASSERY-HB-553565,Thamarassery Churam,Kerala,Kozhikode,NH-766,279,11.2153101,75.9813227,left,20.0,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KL-THAMARASSERY-HB-554417,Thamarassery Churam,Kerala,Kozhikode,NH-766,280,11.4021879,75.8171117,right,70.0,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KL-THAMARASSERY-HB-555026,Thamarassery Churam,Kerala,Kozhikode,NH-766,281,11.5157996,75.9069175,left,31.3,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KL-THAMARASSERY-HB-556002,Thamarassery Churam,Kerala,Kozhikode,NH-766,282,11.3200271,76.0728335,left,40.3,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KL-THAMARASSERY-HB-556203,Thamarassery Churam,Kerala,Kozhikode,NH-766,283,11.2616239,75.8540618,left,27.3,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KL-THAMARASSERY-HB-556901,Thamarassery Churam,Kerala,Kozhikode,NH-766,284,11.3521944,75.9908291,left,70.0,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KL-THAMARASSERY-HB-556986,Thamarassery Churam,Kerala,Kozhikode,NH-766,285,11.3336134,75.8773702,left,66.8,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KL-THAMARASSERY-HB-558191,Thamarassery Churam,Kerala,Kozhikode,NH-766,286,11.384915,75.9028952,left,74.4,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KL-THAMARASSERY-HB-575172,Thamarassery Churam,Kerala,Kozhikode,NH-766,287,11.6324076,76.0124463,right,48.0,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KL-THAMARASSERY-HB-576771,Thamarassery Churam,Kerala,Kozhikode,NH-766,288,11.5447479,76.0469368,left,69.2,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KL-THAMARASSERY-HB-578644,Thamarassery Churam,Kerala,Kozhikode,NH-766,289,11.5718998,76.1901413,left,37.0,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KL-THAMARASSERY-HB-594187,Thamarassery Churam,Kerala,Kozhikode,NH-766,290,11.5527022,76.209766,right,20.0,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KL-THAMARASSERY-HB-596944,Thamarassery Churam,Kerala,Kozhikode,NH-766,291,11.5700942,75.8811717,right,39.3,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KL-THAMARASSERY-HB-597110,Thamarassery Churam,Kerala,Kozhikode,NH-766,292,11.4433088,76.2376113,right,28.9,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KL-THAMARASSERY-HB-615361,Thamarassery Churam,Kerala,Kozhikode,NH-766,293,11.430126,76.0966292,right,58.2,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KL-THAMARASSERY-HB-618351,Thamarassery Churam,Kerala,Kozhikode,NH-766,294,11.5054521,75.9694612,right,68.5,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KL-THAMARASSERY-HB-619778,Thamarassery Churam,Kerala,Kozhikode,NH-766,295,11.4602422,76.094413,left,29.5,,hairpin,,,2,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KL-THAMARASSERY-HB-627433,Thamarassery Churam,Kerala,Kozhikode,NH-766,296,11.4232607,76.0638057,left,75.0,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KL-THAMARASSERY-HB-631039,Thamarassery Churam,Kerala,Kozhikode,NH-766,297,11.3129458,76.1005094,right,20.0,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KL-THAMARASSERY-HB-635724,Thamarassery Churam,Kerala,Kozhikode,NH-766,298,11.4476233,75.8990264,left,69.1,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KL-THAMARASSERY-HB-647519,Thamarassery Churam,Kerala,Kozhikode,NH-766,299,11.4104041,75.8576537,left,67.2,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KL-THAMARASSERY-HB-652119,Thamarassery Churam,Kerala,Kozhikode,NH-766,300,11.2819681,76.0370286,right,20.0,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KL-THAMARASSERY-HB-660926,Thamarassery Churam,Kerala,Kozhikode,NH-766,301,11.2375822,75.8921653,right,46.9,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KL-THAMARASSERY-HB-663327,Thamarassery Churam,Kerala,Kozhikode,NH-766,302,11.2809557,76.1644933,right,62.7,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KL-THAMARASSERY-HB-681340,Thamarassery Churam,Kerala,Kozhikode,NH-766,303,11.2719855,75.8915913,left,48.3,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KL-THAMARASSERY-HB-688497,Thamarassery Churam,Kerala,Kozhikode,NH-766,304,11.4889024,75.8062676,left,50.6,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KL-THAMARASSERY-HB-691579,Thamarassery Churam,Kerala,Kozhikode,NH-766,305,11.3838323,75.7919821,right,43.9,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KL-THAMARASSERY-HB-696780,Thamarassery Churam,Kerala,Kozhikode,NH-766,306,11.3910521,75.9324386,left,53.0,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KL-THAMARASSERY-HB-700021,Thamarassery Churam,Kerala,Kozhikode,NH-766,307,11.3485415,76.0199857,right,52.4,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KL-THAMARASSERY-HB-704942,Thamarassery Churam,Kerala,Kozhikode,NH-766,308,11.4943419,75.9300122,left,24.1,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KL-THAMARASSERY-HB-713642,Thamarassery Churam,Kerala,Kozhikode,NH-766,309,11.413574,75.9889438,left,33.3,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KL-THAMARASSERY-HB-716278,Thamarassery Churam,Kerala,Kozhikode,NH-766,310,11.4259765,76.0287327,right,40.4,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KL-THAMARASSERY-HB-764286,Thamarassery Churam,Kerala,Kozhikode,NH-766,311,11.474707,75.8353561,left,20.0,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KL-THAMARASSERY-HB-773276,Thamarassery Churam,Kerala,Kozhikode,NH-766,312,11.2577635,76.0870398,right,68.7,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KL-THAMARASSERY-HB-798837,Thamarassery Churam,Kerala,Kozhikode,NH-766,313,11.4496069,75.9356826,left,59.7,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KL-THAMARASSERY-HB-804571,Thamarassery Churam,Kerala,Kozhikode,NH-766,314,11.3446937,75.9378493,right,58.3,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KL-THAMARASSERY-HB-807884,Thamarassery Churam,Kerala,Kozhikode,NH-766,315,11.1966723,76.0360199,left,44.7,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KL-THAMARASSERY-HB-816069,Thamarassery Churam,Kerala,Kozhikode,NH-766,316,11.3944476,75.961261,right,44.8,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KL-THAMARASSERY-HB-817668,Thamarassery Churam,Kerala,Kozhikode,NH-766,317,11.3418919,76.1521553,right,20.0,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KL-THAMARASSERY-HB-875266,Thamarassery Churam,Kerala,Kozhikode,NH-766,318,11.2665193,75.9199208,left,38.6,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KL-THAMARASSERY-HB-914267,Thamarassery Churam,Kerala,Kozhikode,NH-766,319,11.2799123,75.9903891,left,55.5,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KL-THAMARASSERY-HB-965778,Thamarassery Churam,Kerala,Kozhikode,NH-766,320,11.3808978,75.9856483,left,50.8,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KL-THAMARASSERY-HB-1024949,Thamarassery Churam,Kerala,Kozhikode,NH-766,321,11.233928,76.1432147,left,70.6,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KL-THAMARASSERY-HB-1029765,Thamarassery Churam,Kerala,Kozhikode,NH-766,322,11.2252725,76.0079992,right,20.0,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KL-THAMARASSERY-HB-1040350,Thamarassery Churam,Kerala,Kozhikode,NH-766,323,11.2241885,76.0686868,right,26.0,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KL-THAMARASSERY-HB-1060516,Thamarassery Churam,Kerala,Kozhikode,NH-766,324,11.2206065,76.1089613,left,51.5,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KL-THAMARASSERY-HB-1079033,Thamarassery Churam,Kerala,Kozhikode,NH-766,325,11.6066251,76.0282171,right,23.9,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KL-THAMARASSERY-HB-1108911,Thamarassery Churam,Kerala,Kozhikode,NH-766,326,11.5973322,76.0687586,right,62.5,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KL-THAMARASSERY-HB-1143226,Thamarassery Churam,Kerala,Kozhikode,NH-766,327,11.3711678,75.8628745,right,66.5,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KL-THAMARASSERY-HB-1164212,Thamarassery Churam,Kerala,Kozhikode,NH-766,328,11.5800258,76.0112961,right,59.8,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KL-THAMARASSERY-HB-1247945,Thamarassery Churam,Kerala,Kozhikode,NH-766,329,11.6123057,75.9254311,right,63.6,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KL-THAMARASSERY-HB-1284416,Thamarassery Churam,Kerala,Kozhikode,NH-766,330,11.5540432,76.0025161,right,38.9,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KL-THAMARASSERY-HB-1307729,Thamarassery Churam,Kerala,Kozhikode,NH-766,331,11.3033134,76.0157073,right,54.2,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KL-THAMARASSERY-HB-1321605,Thamarassery Churam,Kerala,Kozhikode,NH-766,332,11.3309573,75.8237963,right,65.9,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KL-THAMARASSERY-HB-1338868,Thamarassery Churam,Kerala,Kozhikode,NH-766,333,11.4165683,75.9201974,left,36.6,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KL-THAMARASSERY-HB-1382254,Thamarassery Churam,Kerala,Kozhikode,NH-766,334,11.573588,75.9742538,left,49.1,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KL-THAMARASSERY-HB-1495259,Thamarassery Churam,Kerala,Kozhikode,NH-766,335,10.7756269,76.7018376,right,20.0,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KL-THAMARASSERY-HB-1839028,Thamarassery Churam,Kerala,Kozhikode,NH-766,336,11.5077703,76.1127233,left,71.1,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
+IN-KL-THAMARASSERY-HB-1948922,Thamarassery Churam,Kerala,Kozhikode,NH-766,337,11.4519885,75.8149291,right,34.4,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.84
+IN-KL-THAMARASSERY-HB-1978378,Thamarassery Churam,Kerala,Kozhikode,NH-766,338,11.331365,75.9623009,right,64.2,,hairpin,,,,OpenStreetMap Overpass + geometric extraction,estimated_unverified,0.88
